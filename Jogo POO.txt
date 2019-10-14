@@ -1,0 +1,9 @@
+Nome do Jogo: Bug
+Grupo: Marcos Victor Ennes, Lucas Amaral e Paulo.
+Biblioteca usada: JPlay
+Contexto: Um programador deverá enfrentar os bugs de seu programa. Caso contrário seu computador apresentará tela azul.
+Complemento: O jogador irá controlar o programador e terá que derrotar os que aparecerem pela frente.
+Caso contrário o jogo acaba.
+Jogo: Será baseado num esquema de pontuação em que cada vez que jogado apresentará uma pontuação. O objeto 
+lançado pelo programador é um teclado.
+Classes: Sysadm, Bug, Shot e Jogo. 
